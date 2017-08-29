@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-maçã
-<<<<<<< HEAD
-=======
->>>>>>> Frutas_verdes
-abacate
-limao
-melancia
-laranja
-goiaba
-<<<<<<< HEAD
-caja
-=======
-morango
-acerola
-manga (sim! existe manga vermelha sim)
-araçá
->>>>>>> Frutas_vermelhas
-=======
->>>>>>> Frutas_verdes
+amendoa
+ameixa
+acai
+abiu_amarelo
+abacaxi
