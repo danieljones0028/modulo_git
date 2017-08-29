@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 maçã
 <<<<<<< HEAD
+=======
+>>>>>>> Frutas_verdes
 abacate
-banana
+limao
+melancia
+laranja
 goiaba
+<<<<<<< HEAD
 caja
 =======
 morango
@@ -10,3 +16,5 @@ acerola
 manga (sim! existe manga vermelha sim)
 araçá
 >>>>>>> Frutas_vermelhas
+=======
+>>>>>>> Frutas_verdes
