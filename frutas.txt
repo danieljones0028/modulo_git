@@ -2,4 +2,4 @@ abacate
 limao
 melancia
 laranja
-goiaba
+coco
