@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 coco
 ameixa
 acai
@@ -11,3 +12,10 @@ caju
 camu-camu
 cereja
 >>>>>>> Frutas_vermelhas
+=======
+banana
+carambola
+manga
+damasco
+siriguela
+>>>>>>> Frutas_Amarelas
