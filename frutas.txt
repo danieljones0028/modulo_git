@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 abacate
 limao
 melancia
 laranja
 goiaba
-=======
-maçã
-abacate
-banana
-goiaba
-caja
->>>>>>> Frutas
