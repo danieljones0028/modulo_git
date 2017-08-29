@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ata
 ameixa
 acai
@@ -19,3 +20,10 @@ manga
 damasco
 siriguela
 >>>>>>> Frutas_Amarelas
+=======
+abacate
+limao
+melancia
+laranja
+coco
+>>>>>>> Frutas_verdes
