@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 melao
 siriguela
 abacaxi
 banana
 carambola
-=======
-maçã
-abacate
-banana
-goiaba
-caja
->>>>>>> Frutas
