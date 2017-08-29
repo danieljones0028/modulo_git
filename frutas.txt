@@ -1,5 +1,12 @@
 maçã
+<<<<<<< HEAD
 abacate
 banana
 goiaba
 caja
+=======
+morango
+acerola
+manga (sim! existe manga vermelha sim)
+araçá
+>>>>>>> Frutas_vermelhas
